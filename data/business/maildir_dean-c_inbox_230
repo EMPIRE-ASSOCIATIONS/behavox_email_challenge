@@ -1,0 +1,24 @@
+Date: Wed, 17 Oct 2001 09:34:49 -0700 (PDT)
+From: kate.symes@enron.com
+To: shift.dl-portland@enron.com
+Subject: Short/Long Positions for 10/18
+X-FileName: CDEAN2 (Non-Privileged).pst
+
+For Thursday -
+
+STWBOM will be short 75 mw on peak @ SP15. The three day-ahead pieces were sold @ $27.20 and $28 (BOM sales) and $29.97 (SP15 Peak Day-Ahead Index).
+
+Make real time purchases to cover the short under the STWHOURLY book. Enter an inter-desk sale from STWHOURLY to STWBOM. Then make a sale under the STWBOM book to the Cal-Imbalance to complete the deal.
+
+Also, STWBOM will be long 20 mw HE 2-5 @ PV. This is a parking deal with PNM done at $16 ($14 purchase price + $2 buy-resale fee). You'll notice we'll be long 20 mw for these hours in Real Time Position Manager. Please enter an inter-desk purchase from STWBOM under the STWHOURLY book @ PV and sell this off real time under STWHOURLY. 
+
+Let me know if you have questions.
+
+Kate Symes
+Real Time Trading Support
+Office/503-464-7744
+Cell/503-819-2181
+Fax/503-464-7996
+
+
+<MARKUP id=erin Time=Mon Dec 12 14:50:31 GMT 2005 Interesting=false>CORE_BUSINESS</MARKUP>

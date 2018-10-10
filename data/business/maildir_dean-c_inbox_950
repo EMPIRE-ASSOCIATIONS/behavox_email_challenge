@@ -1,0 +1,58 @@
+Date: Thu, 11 Oct 2001 16:41:06 -0700 (PDT)
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Subject: Start Date: 10/11/01; HourAhead hour: 19;  <CODESITE>
+Cc: bert.meyers@enron.com, bill.williams@enron.com, craig.dean@enron.com, 
+	darin.presto@enron.com, eric.linder@enron.com, 
+	geir.solberg@enron.com, john.anderson@enron.com, 
+	kate.symes@enron.com, leaf.harasin@enron.com, 
+	monika.causholli@enron.com, mark.guzman@enron.com, 
+	michael.mier@enron.com, pete.davis@enron.com, ryan.slinger@enron.com
+Bcc: bert.meyers@enron.com, bill.williams@enron.com, craig.dean@enron.com, 
+	darin.presto@enron.com, eric.linder@enron.com, 
+	geir.solberg@enron.com, john.anderson@enron.com, 
+	kate.symes@enron.com, leaf.harasin@enron.com, 
+	monika.causholli@enron.com, mark.guzman@enron.com, 
+	michael.mier@enron.com, pete.davis@enron.com, ryan.slinger@enron.com
+X-FileName: CDEAN2 (Non-Privileged).pst
+
+
+
+Start Date: 10/11/01; HourAhead hour: 19;  No ancillary schedules awarded.  No variances detected. 
+
+    LOG MESSAGES:
+
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001101119.txt
+
+Error retrieving HourAhead price data - process continuing...
+---- Energy Import/Export Schedule ----
+*** Final schedule not found for preferred schedule.
+     Details:
+
+  TRANS_TYPE: FINAL
+  SC_ID: ECTRT
+  MKT_TYPE: 2
+  TRANS_DATE: 10/11/01
+  TIE_POINT: PVERDE_5_DEVERS
+  INTERCHG_ID: SRP_EPMI_CISO
+  ENGY_TYPE: FIRM
+
+
+
+---- SC Trades Schedule ----
+*** Final schedule not found for preferred schedule.
+     Details:
+
+  TRANS_TYPE: FINAL
+  SC_ID: EPMI
+  MKT_TYPE: 2
+  TRANS_DATE: 10/11/01
+  TRADING_SC: AZUA
+  PNT_OF_INTRC: SP15
+  SCHED_TYPE: ENGY
+  PURCH_SALE: 2
+  DEAL_NO: 1
+
+
+
+<MARKUP id=sabie Time=Thu Dec 08 18:15:43 GMT 2005 Interesting=false>CORE_BUSINESS</MARKUP>

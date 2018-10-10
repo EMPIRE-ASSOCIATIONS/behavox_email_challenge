@@ -1,0 +1,15 @@
+Date: Wed, 23 Jan 2002 13:30:57 -0800 (PST)
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Subject: Schedule Crawler: DayAhead Failure
+X-FileName: phillip platter 6-26-02.PST
+
+
+
+Start Date: 1/24/02; DayAhead market;  DayAhead schedule download failed. Manual intervention required.
+
+    LOG MESSAGES:
+
+Error: Crawler lifetime exceeded.
+
+<MARKUP id=bill Time=Thu Jan 12 17:04:20 GMT 2006 Interesting=false>CORE_BUSINESS</MARKUP>

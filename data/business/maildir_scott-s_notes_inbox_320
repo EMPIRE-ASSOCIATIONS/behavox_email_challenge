@@ -1,0 +1,19 @@
+Date: Tue, 28 Nov 2000 10:00:00 -0800 (PST)
+From: shouan.tang@enron.com
+To: susan.scott@enron.com
+Subject: gas daily forward start options__ Modified Valuation Version
+Cc: jeremy.wong@enron.com
+Bcc: jeremy.wong@enron.com
+X-FileName: sscott5.nsf
+
+Hi Susan,
+
+I changed the code so that it feeds the Ostrip model as Larry (?) requested 
+by using the formula to derive BasisOffset. In the attached file is the 
+comparison between the old valuation and the one after the modification. 
+Please not the changes on the premiums. Please let me know if you or Larry 
+have any questions/comments on this. 
+
+Shouan
+
+<MARKUP id=peter Time=Mon Dec 05 16:33:18 GMT 2005 Interesting=false>CORE_BUSINESS</MARKUP>

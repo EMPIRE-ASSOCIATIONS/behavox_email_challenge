@@ -1,0 +1,44 @@
+Date: Sat, 19 Jan 2002 14:31:55 -0800 (PST)
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Subject: Schedule Crawler: DayAhead Failure
+X-FileName: phillip platter 6-26-02.PST
+
+
+
+Start Date: 1/20/02; DayAhead market;  DayAhead schedule download failed. Manual intervention required.
+
+    LOG MESSAGES:
+
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2002012016.txt
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+
+<MARKUP id=sabie Time=Tue Jan 10 14:31:12 GMT 2006 Interesting=false>CORE_BUSINESS</MARKUP>

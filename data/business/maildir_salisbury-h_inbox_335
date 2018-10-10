@@ -1,0 +1,31 @@
+Date: Tue, 6 Nov 2001 08:51:00 -0800 (PST)
+From: chris.walker@enron.com
+To: holden.salisbury@enron.com
+Subject: FW: holiday rules
+X-FileName: holden salisbury 6-26-02.PST
+
+
+
+ -----Original Message-----
+From: 	Walker, Chris  
+Sent:	Tuesday, November 06, 2001 10:20 AM
+To:	Platter, Phillip; Mallory, Chris
+Cc:	Meredith, Kevin; Hoang, Charlie
+Subject:	holiday rules
+
+Let us know if these dates are what you want for all of west power:
+
+	Wed	Thurs	Fri	
+Day Ahead Pk	8-9	10	12-13	
+Day Ahead +1 Pk	10	12-13	14	
+BOM Pk	10-EOM	12-EOM	14-EOM	
+				
+Day Ahead Offpk	8-9	10-11	12-13	
+Day Ahead +1 Offpk	10-11	12-13	14	
+BOM Offpk	10-EOM	12-EOM	14-EOM	
+
+
+Chris
+713-853-7533
+
+<MARKUP id=peter Time=Thu Jan 19 17:19:33 GMT 2006 Interesting=false>CORE_BUSINESS</MARKUP>

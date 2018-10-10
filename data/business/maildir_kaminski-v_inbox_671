@@ -1,0 +1,23 @@
+Date: Wed, 19 Sep 2001 06:53:32 -0700 (PDT)
+From: alex.huang@enron.com
+To: j.kaminski@enron.com, zimin.lu@enron.com, sandeep.kohli@enron.com
+Subject: PSIM progress
+X-FileName: VKAMINS (Non-Privileged).pst
+
+Hi all, 
+We have updated the PSIM model. The current version can handle more realistic
+operational constraints by selecting "Semi Optimal Dispatch" toggle for Dispatch 
+Mode. This dispatch mode considers minimum up hours, minimum down hours,
+ramp-up hours, start up cost, fuel switching cost, forward looking within a 
+user-specified period of time. It also allows user to enter their estimate of ISO 
+curtailment on their generation capacity by month in "Asset" page.
+
+You need to put Frontera.dll in your C:\Winnet directory, and the spreadsheet and
+help files in one directory of your choice. 
+
+
+Alex
+
+    
+
+<MARKUP id=erin Time=Fri Jan 13 15:20:24 GMT 2006 Interesting=false>CORE_BUSINESS</MARKUP>

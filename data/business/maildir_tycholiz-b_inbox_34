@@ -1,0 +1,22 @@
+Date: Tue, 10 Apr 2001 14:04:00 -0700 (PDT)
+From: stephanie.miller@enron.com
+To: barry.tycholiz@enron.com
+Subject: kern fuel
+X-FileName: BTYCHOL (Non-Privileged).pst
+
+Assume K demand of 24,500
+
+24,500*4.2%= 1,029 mmbtu
+
+24,500+1,025 = 25,529 mmbtu
+
+25,529 *95.8% = 24,457 SHORT GAS!
+
+
+Correct method:
+
+24,500/95.8% = 25,574 mmbtu
+
+25,574 * 95.8% = 24,500 mmbtu - BINGO!
+
+<MARKUP id=sabie Time=Tue Jan 10 16:55:58 GMT 2006 Interesting=false>CORE_BUSINESS</MARKUP>

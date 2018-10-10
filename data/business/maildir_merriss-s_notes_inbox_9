@@ -1,0 +1,124 @@
+Date: Tue, 1 May 2001 03:03:00 -0700 (PDT)
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Subject: Schedule Crawler: HourAhead Failure <CODESITE>
+Cc: bert.meyers@enron.com, bill.williams.iii@enron.com, craig.dean@enron.com, 
+	dporter3@enron.com, eric.linder@enron.com, geir.solberg@enron.com, 
+	jbryson@enron.com, leaf.harasin@enron.com, 
+	monika.causholli@enron.com, mark.guzman@enron.com, 
+	pete.davis@enron.com, ryan.slinger@enron.com, 
+	steven.merris@enron.com
+Bcc: bert.meyers@enron.com, bill.williams.iii@enron.com, craig.dean@enron.com, 
+	dporter3@enron.com, eric.linder@enron.com, geir.solberg@enron.com, 
+	jbryson@enron.com, leaf.harasin@enron.com, 
+	monika.causholli@enron.com, mark.guzman@enron.com, 
+	pete.davis@enron.com, ryan.slinger@enron.com, 
+	steven.merris@enron.com
+X-FileName: steven merriss 6-28-02.nsf
+
+Start Date: 5/1/01; HourAhead hour: 9;  HourAhead schedule download failed. 
+Manual intervention required.
+
+    LOG MESSAGES:
+
+ERROR: File O:\Portland\WestDesk\California Scheduling\ISO Final 
+Schedules\2001050109.txt is empty.
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final 
+Schedules\2001050109.txt
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+!!!Insufficient memory for this operation.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+
+<MARKUP id=peter Time=Tue Dec 06 15:40:35 GMT 2005 Interesting=false>CORE_BUSINESS</MARKUP>

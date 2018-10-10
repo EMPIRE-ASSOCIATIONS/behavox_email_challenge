@@ -1,0 +1,36 @@
+Date: Wed, 10 Oct 2001 13:39:06 -0700 (PDT)
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Subject: Start Date: 10/10/01; HourAhead hour: 16;  <CODESITE>
+Cc: bert.meyers@enron.com, bill.williams@enron.com, craig.dean@enron.com, 
+	eric.linder@enron.com, geir.solberg@enron.com, kate.symes@enron.com, 
+	leaf.harasin@enron.com, monika.causholli@enron.com, 
+	mark.guzman@enron.com, pete.davis@enron.com, ryan.slinger@enron.com
+Bcc: bert.meyers@enron.com, bill.williams@enron.com, craig.dean@enron.com, 
+	eric.linder@enron.com, geir.solberg@enron.com, kate.symes@enron.com, 
+	leaf.harasin@enron.com, monika.causholli@enron.com, 
+	mark.guzman@enron.com, pete.davis@enron.com, ryan.slinger@enron.com
+X-FileName: CDEAN2 (Non-Privileged).pst
+
+
+
+Start Date: 10/10/01; HourAhead hour: 16;  No ancillary schedules awarded.  Variances detected.
+
+    LOG MESSAGES:
+
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001101016.txt
+
+Error retrieving HourAhead price data - process continuing...
+---- Ancillary Import Schedule ----
+@@@ Ancillary service awarded.     
+     Details: (Pref Amt:  75.00 / Final Amt:   0.00 / DA Final Amt:   0.00 / HA Amt:   0.00)
+     <Price Data Unavailable>
+  SC_ID: ECTRT
+  TIE_POINT: MALIN_5_RNDMTN
+  INTERCHG_ID: 22_EPMI_1010HS
+  ENGY_TYPE: CRPLC
+
+
+
+
+<MARKUP id=erin Time=Thu Dec 01 15:00:48 GMT 2005 Interesting=false>CORE_BUSINESS</MARKUP>

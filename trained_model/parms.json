@@ -1,0 +1,1 @@
+{"sentence_padding":512,"regularizer":0.0001,"read_again":false,"lstm1_output_size":25,"lstm2_output_size":200,"word_embedding_size":300}

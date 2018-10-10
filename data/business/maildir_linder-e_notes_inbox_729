@@ -1,0 +1,36 @@
+Date: Thu, 5 Apr 2001 12:41:00 -0700 (PDT)
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Subject: Start Date: 4/5/01; HourAhead hour: 20;  <CODESITE>
+Cc: bert.meyers@enron.com, bill.williams.iii@enron.com, craig.dean@enron.com, 
+	dporter3@enron.com, eric.linder@enron.com, geir.solberg@enron.com, 
+	holden.salisbury@enron.com, jbryson@enron.com, 
+	leaf.harasin@enron.com, monika.causholli@enron.com, 
+	mark.guzman@enron.com, pete.davis@enron.com, ryan.slinger@enron.com
+Bcc: bert.meyers@enron.com, bill.williams.iii@enron.com, craig.dean@enron.com, 
+	dporter3@enron.com, eric.linder@enron.com, geir.solberg@enron.com, 
+	holden.salisbury@enron.com, jbryson@enron.com, 
+	leaf.harasin@enron.com, monika.causholli@enron.com, 
+	mark.guzman@enron.com, pete.davis@enron.com, ryan.slinger@enron.com
+X-FileName: eric linder 6-28-02.nsf
+
+Start Date: 4/5/01; HourAhead hour: 20;  No ancillary schedules awarded.  
+Variances detected.
+Variances detected in Generation schedule.
+
+    LOG MESSAGES:
+
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final 
+Schedules\2001040520.txt
+
+---- Generation Schedule ----
+$$$ Variance found in table tblGEN_SCHEDULE.
+     Details: (Hour: 20 / Preferred:  12.00 / Final:  12.03)
+  TRANS_TYPE: FINAL
+  SC_ID: Wheelabrat
+  MKT_TYPE: 2
+  TRANS_DATE: 4/5/01
+  UNIT_ID: MARTEL_2_AMFOR
+
+
+<MARKUP id=erin Time=Thu Jan 12 13:08:39 GMT 2006 Interesting=false>CORE_BUSINESS</MARKUP>

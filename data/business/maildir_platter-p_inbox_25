@@ -1,0 +1,30 @@
+Date: Mon, 4 Feb 2002 14:57:13 -0800 (PST)
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Subject: Start Date: 2/5/02; DayAhead market;
+X-FileName: phillip platter 6-26-02.PST
+
+
+
+Start Date: 2/5/02; DayAhead market;  No ancillary schedules awarded.  Variances detected.
+Variances detected in Load schedule. 
+
+    LOG MESSAGES:
+
+ERROR: File O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2002020516.txt is empty.
+ERROR: File O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2002020516.txt is empty.
+ERROR: File O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2002020516.txt is empty.
+ERROR: File O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2002020516.txt is empty.
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2002020516.txt
+
+---- Load Schedule ----
+$$$ Variance found in table tblLoads.
+     Details: (Hour: 4 / Preferred: 322.90 / Final: 322.89)
+  TRANS_TYPE: FINAL
+  LOAD_ID: PGE3
+  MKT_TYPE: 1
+  TRANS_DATE: 2/5/02
+  SC_ID: ENRJ
+
+
+<MARKUP id=peter Time=Tue Dec 13 13:01:09 GMT 2005 Interesting=false>CORE_BUSINESS</MARKUP>

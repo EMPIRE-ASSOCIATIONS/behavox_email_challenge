@@ -1,0 +1,45 @@
+Date: Wed, 18 Oct 2000 07:50:00 -0700 (PDT)
+From: david.forster@enron.com
+To: mark.taylor@enron.com
+Subject: Pipeline Capacity Trading
+X-FileName: mtaylor.nsf
+
+Mark,
+
+Can you please start putting together documentation for the following?
+
+- Pipeline Capacity Trading ETA (to appear on the new capacity trading 
+website)
+- Pipeline Capacity Trading Service Contract (entered into on paper with 
+piplelines wishing to post their capacity on EnronOnline
+
+I imagine the ETA will be modeled pretty closely on the existing ETA.
+
+For the Service Contract, I assume we will be covering things like:
+
+- Nature of the Service (what we will do and what they will do)
+ - They will
+  -Post products on EnronOnline
+  - Take responsibility for their prices
+  - Be bound by any transactions which result, subject to their Tariff 
+schedules.
+  - Pay for any hardware needed at their end and/or any 3rd party connection 
+costs (e.g. internet service providers)
+ - We will
+  - Provide the software
+  - Host and maintain the database
+  - Facilitate access to the application
+  - Administer User ID's
+  - Provide support for Product creation
+- Representation, warranties and limitations of our liability for the service
+- Confidentiality
+
+I assume we may need to sit down and discuss in more detail. I will forward 
+the latest copy of our functional spec.  Please call and let me know what I 
+can do to help in putting the above together.
+
+Thanks,
+
+Dave
+
+<MARKUP id=sabie Time=Thu Dec 08 18:29:45 GMT 2005 Interesting=false>CORE_BUSINESS</MARKUP>

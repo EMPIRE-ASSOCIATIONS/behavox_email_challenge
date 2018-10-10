@@ -1,0 +1,16 @@
+Date: Fri, 8 Feb 2002 13:44:15 -0800 (PST)
+From: davis.thames@enron.com
+To: a..howard@enron.com, rod.hayslett@enron.com, tracy.geaccone@enron.com, 
+	steven.harris@enron.com, michael.ratner@enron.com, 
+	lindy.donoho@enron.com
+Subject: spread option model
+X-FileName: ldonoho (Non-Privileged).pst
+
+Please see attached summary sheet.  The intrinsic value is the value of the basin spread, and the extrinsic is the volatility (time) value.  The correlation being assumed minimizes extrinsic value, so we are only looking at the value of the spread from 2006 onward.
+
+Results are that the basin curves impley over $2bb in continuing value past '06.  Assuming $550 in debt, that provides a PV equity value of $1.45bb.  Add to that the PV of the current contracts, approx $400mm, and you've got a total equity value of approximately $1.85bb.  This is reasonably consistent with the model if we adjust it to include max rates (as the basin curve valuation suggests you should do).
+
+Best-
+Davis
+
+<MARKUP id=erin Time=Wed Dec 14 10:02:35 GMT 2005 Interesting=false>CORE_BUSINESS</MARKUP>

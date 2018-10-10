@@ -1,0 +1,36 @@
+Date: Fri, 11 Jan 2002 06:11:07 -0800 (PST)
+From: david.poston@enron.com
+To: phillip.platter@enron.com, jeff.richter@enron.com
+Subject: FW: Estate/NETCO split test - additional info
+X-FileName: phillip platter 6-26-02.PST
+
+Good Morning Phil & Jeff,
+
+This email is to confirm the information from Susan below.  In a nutshell, we will bring an empty version of CAPS over to NETCO to use in an "emergency".  I'll also try to call you guys to confirm over the phone but in case I don't get a hold of you I wanted to at least send out an email.
+
+On the FSP front, we are actively testing everyday.
+
+Also, a final reminder, the database names for ESTATE are changing this weekend.  So, if your still using the Winston "pull" from the CAL-SHEET you will need to change the connect string.
+
+OLD = pwrprodn_ded
+NEW = estpwrpn
+
+Have a good one,  Poston
+
+
+
+ -----Original Message-----
+From: 	Amador, Susan  
+Sent:	Thursday, January 10, 2002 5:37 PM
+To:	Poston, David
+Subject:	Estate/NETCO split test - additional info
+
+David,
+
+Just wanted you to give you a temperature reading of this office.  You might want to touch base with Richter (and maybe Phil) about us going straight to FSP with NETCO.  They want to make sure that we have an empty version of CAPS to use in case of an "emergency".  Serena has been positive/optimistic about us going straight to FSP.  Neither Chris nor Bill have expressed concerns (to me that is).
+
+Susan
+
+
+
+<MARKUP id=peter Time=Mon Dec 12 12:13:23 GMT 2005 Interesting=false>CORE_BUSINESS</MARKUP>

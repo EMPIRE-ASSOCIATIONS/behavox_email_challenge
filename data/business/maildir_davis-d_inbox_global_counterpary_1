@@ -1,0 +1,41 @@
+Date: Tue, 6 Nov 2001 13:18:09 -0800 (PST)
+From: bernice.rodriguez@enron.com
+To: gcp_ees@enron.com, gcp_houston@enron.com, syed.ahmed@enron.com, 
+	juantongia.calvin@enron.com, dana.davis@enron.com, d..hare@enron.com, 
+	howard.harrison@enron.com, cheryl.johnson@enron.com, 
+	ruby.kyser@enron.com, julissa.marron@enron.com, 
+	jason.moore@enron.com, gloria.mordi@enron.com, 
+	dale.newberger@enron.com, remi.otegbola@enron.com, 
+	tanya.valderrama@enron.com
+Subject: Changes to ERMS shortnames
+X-FileName: DDAVIS (Non-Privileged).pst
+
+
+Hi All,
+
+If a change is needed to the ERMS shortname field in GCP, please forward your request to Cheryl Johnson.  Cheryl must coordinate these changes with ERMS IT.
+
+Bernice
+
+
+
+ -----Original Message-----
+From: 	Khyrullah, Lamya  
+Sent:	Tuesday, November 06, 2001 2:57 PM
+To:	Hare, Bill D.; Coleman, Tandra; Rodriguez, Bernice; Machado, Matilda; Schott, Samuel; Johnson, Cheryl; Hunter-Lindsay, Brian
+Cc:	Chitradurga, Sundar
+Subject:	ERMS Problem
+Importance:	High
+
+Hi All,
+
+We are having some problems in ERMS as sometimes a user inserts ERMS code twice by entering an expiry dt for the old one.
+This is  creating a problem in credit as they are getting 2 erms code for a single cp.
+Thus I would like to change the validation where only one ERMS code can be entered .
+Please let me know this by tomm.
+
+Thanks
+Lamya
+x54188
+
+<MARKUP id=bill Time=Wed Jan 11 17:11:05 GMT 2006 Interesting=false>CORE_BUSINESS</MARKUP>

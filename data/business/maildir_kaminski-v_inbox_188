@@ -1,0 +1,30 @@
+Date: Thu, 26 Apr 2001 18:31:00 -0700 (PDT)
+From: bob.lee@enron.com
+To: vasant.shanbhogue@enron.com, vince.kaminski@enron.com, zimin.lu@enron.com, 
+	stinson.gibner@enron.com
+Subject: EOL Crude Transactions
+Cc: tom.barkley@enron.com
+Bcc: tom.barkley@enron.com
+X-FileName: vkamins.pst
+
+
+Tom has extracted the crude trades from Clayton's database.  A spreadsheet is available in O:\Research\Common\From_BobLee\crudewti.eol.get.  We are working on a cleaner version, but this should allow everyone to get a view of the data we have.
+
+The attachment below has a description of the data fields in the spreadsheet.
+
+If you have ideas on how we should analyze this, let Tom or I know.
+
+Bob Lee
+---------------------- Forwarded by Bob Lee/NA/Enron on 04/26/2001 03:24 PM ---------------------------
+
+
+Tom Barkley
+04/26/2001 02:46 PM
+To:	Bob Lee/NA/Enron@Enron
+cc:	 
+
+Subject:	Description of Fields
+
+ 
+
+<MARKUP id=sabie Time=Tue Jan 10 17:15:24 GMT 2006 Interesting=false>CORE_BUSINESS</MARKUP>

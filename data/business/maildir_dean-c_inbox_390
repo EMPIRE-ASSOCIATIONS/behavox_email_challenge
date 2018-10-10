@@ -1,0 +1,35 @@
+Date: Mon, 22 Oct 2001 20:38:18 -0700 (PDT)
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Subject: Start Date: 10/22/01; HourAhead hour: 23;  <CODESITE>
+Cc: bert.meyers@enron.com, bill.williams@enron.com, craig.dean@enron.com, 
+	eric.linder@enron.com, geir.solberg@enron.com, kate.symes@enron.com, 
+	leaf.harasin@enron.com, mark.guzman@enron.com, pete.davis@enron.com, 
+	ryan.slinger@enron.com
+Bcc: bert.meyers@enron.com, bill.williams@enron.com, craig.dean@enron.com, 
+	eric.linder@enron.com, geir.solberg@enron.com, kate.symes@enron.com, 
+	leaf.harasin@enron.com, mark.guzman@enron.com, pete.davis@enron.com, 
+	ryan.slinger@enron.com
+X-FileName: CDEAN2 (Non-Privileged).pst
+
+
+
+Start Date: 10/22/01; HourAhead hour: 23;  No ancillary schedules awarded.  Variances detected.
+Variances detected in Generation schedule. 
+
+    LOG MESSAGES:
+
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001102223.txt
+
+Error retrieving HourAhead price data - process continuing...
+---- Generation Schedule ----
+$$$ Variance found in table tblGEN_SCHEDULE.
+     Details: (Hour: 23 / Preferred:   0.00 / Final:   0.00)
+  TRANS_TYPE: FINAL
+  SC_ID: Wheelabrat
+  MKT_TYPE: 2
+  TRANS_DATE: 10/22/01
+  UNIT_ID: MARTEL_2_AMFOR
+
+
+<MARKUP id=peter Time=Fri Dec 09 12:42:31 GMT 2005 Interesting=false>CORE_BUSINESS</MARKUP>

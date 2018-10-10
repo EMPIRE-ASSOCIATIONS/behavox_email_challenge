@@ -1,0 +1,52 @@
+Date: Fri, 20 Apr 2001 07:43:00 -0700 (PDT)
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Subject: Start Date: 4/20/01; HourAhead hour: 15;  <CODESITE>
+Cc: bert.meyers@enron.com, bill.williams.iii@enron.com, craig.dean@enron.com, 
+	dporter3@enron.com, eric.linder@enron.com, geir.solberg@enron.com, 
+	jbryson@enron.com, leaf.harasin@enron.com, 
+	monika.causholli@enron.com, mark.guzman@enron.com, 
+	pete.davis@enron.com, ryan.slinger@enron.com, 
+	steven.merris@enron.com
+Bcc: bert.meyers@enron.com, bill.williams.iii@enron.com, craig.dean@enron.com, 
+	dporter3@enron.com, eric.linder@enron.com, geir.solberg@enron.com, 
+	jbryson@enron.com, leaf.harasin@enron.com, 
+	monika.causholli@enron.com, mark.guzman@enron.com, 
+	pete.davis@enron.com, ryan.slinger@enron.com, 
+	steven.merris@enron.com
+X-FileName: eric linder 6-28-02.nsf
+
+Start Date: 4/20/01; HourAhead hour: 15;  No ancillary schedules awarded.  No 
+variances detected.
+
+    LOG MESSAGES:
+
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final 
+Schedules\2001042015.txt
+
+---- Generation Schedule ----
+*** Final schedule not found for preferred schedule.
+     Details:
+
+  TRANS_TYPE: FINAL
+  SC_ID: ECTRT
+  MKT_TYPE: 2
+  TRANS_DATE: 4/20/01
+  UNIT_ID: HARBGN_7_UNITS
+
+
+
+---- Energy Import/Export Schedule ----
+*** Final schedule not found for preferred schedule.
+     Details:
+
+  TRANS_TYPE: FINAL
+  SC_ID: ECTRT
+  MKT_TYPE: 2
+  TRANS_DATE: 4/20/01
+  TIE_POINT: SLVRPK_7_SPP
+  INTERCHG_ID: EPMI_CISO_VICK1
+  ENGY_TYPE: NFRM
+
+
+<MARKUP id=bill Time=Tue Jan 10 14:20:59 GMT 2006 Interesting=false>CORE_BUSINESS</MARKUP>

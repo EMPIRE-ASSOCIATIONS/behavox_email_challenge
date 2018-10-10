@@ -1,0 +1,30 @@
+Date: Sat, 26 Jan 2002 14:32:38 -0800 (PST)
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Subject: Start Date: 1/27/02; DayAhead market;
+X-FileName: phillip platter 6-26-02.PST
+
+
+
+Start Date: 1/27/02; DayAhead market;  No ancillary schedules awarded.  No variances detected. 
+
+    LOG MESSAGES:
+
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2002012716.txt
+
+---- SC Trades Schedule ----
+*** Final schedule not found for preferred schedule.
+     Details:
+
+  TRANS_TYPE: FINAL
+  SC_ID: ENRJ
+  MKT_TYPE: 1
+  TRANS_DATE: 1/27/02
+  TRADING_SC: APX1
+  PNT_OF_INTRC: SP15
+  SCHED_TYPE: ENGY
+  PURCH_SALE: 2
+  DEAL_NO: 1
+
+
+<MARKUP id=peter Time=Tue Dec 13 13:01:04 GMT 2005 Interesting=false>CORE_BUSINESS</MARKUP>

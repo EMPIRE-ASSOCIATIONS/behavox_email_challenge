@@ -1,0 +1,84 @@
+Date: Wed, 8 Nov 2000 22:59:00 -0800 (PST)
+From: tamara.black@enron.com
+To: rudy.acevedo@enron.com, diana.allen@enron.com, russell.ballato@enron.com, 
+	ted.ballinger@enron.com, don.baughman@enron.com, 
+	edward.baughman@enron.com, corry.bentley@enron.com, 
+	robert.benson@enron.com, tamara.black@enron.com, 
+	lisa.burnett@enron.com, paul.broderick@enron.com, 
+	richard.broussard@enron.com, larry.campbell@enron.com, 
+	mike.carson@enron.com, jason.choate@enron.com, 
+	lawrence.clayton@enron.com, kevin.cline@enron.com, 
+	terri.clynes@enron.com, keith.comeaux@enron.com, 
+	karla.compean@enron.com, kayne.coulter@enron.com, 
+	jason.crawford@enron.com, mike.curry@enron.com, 
+	oscar.dalton@enron.com, mark.davis@enron.com, clint.dean@enron.com, 
+	todd.decook@enron.com, george.diaz@enron.com, felicia.doan@enron.com, 
+	chris.dorland@enron.com, tom.dutta@enron.com, joe.errigo@enron.com, 
+	david.fairley@enron.com, miguel.garcia@enron.com, 
+	gerald.gilbert@enron.com, doug.gilbert-smith@enron.com, 
+	joe.gordon@enron.com, gautam.gupta@enron.com, 
+	patrick.hanse@enron.com, brent.hebert@enron.com, 
+	juan.hernandez@enron.com, rogers.herndon@enron.com, 
+	wayne.herndon@enron.com, george.hopley@enron.com, 
+	jim.homco@enron.com, richard.hrabal@enron.com, rika.imai@enron.com, 
+	alton.jackson@enron.com, larry.jester@enron.com, 
+	gary.justice@enron.com, mike.kelly@enron.com, grace.kim@enron.com, 
+	jeff.king@enron.com, john.kinser@enron.com, madhup.kumar@enron.com, 
+	dean.laurent@enron.com, justin.laverell@enron.com, 
+	chris.lenartowicz@enron.com, john.llodra@enron.com, 
+	matt.lorenz@enron.com, gretchen.lotz@enron.com, 
+	peter.makkai@enron.com, dave.mangskau@enron.com, 
+	posey.martinez@enron.com, tom.may@enron.com, 
+	keller.mayeaux@enron.com, doug.miller@enron.com, 
+	jeffrey.miller@enron.com, narsimha.misra@enron.com, 
+	christi.nicolay@enron.com, steve.olinde@enron.com, 
+	andy.pace@enron.com, juan.padron@enron.com, ricardo.perez@enron.com, 
+	joseph.piotrowski@enron.com, laura.podurgiel@enron.com, 
+	kevin.presto@enron.com, cyril.price@enron.com, joe.quenet@enron.com, 
+	mitch.robinson@enron.com, bill.rust@enron.com, david.ryan@enron.com, 
+	eric.saibi@enron.com, zachary.sampson@enron.com, 
+	anna.santucci@enron.com, janelle.scheuer@enron.com, 
+	kyle.schultz@enron.com, erik.serio@enron.com, doug.sewell@enron.com, 
+	robert.stalford@enron.com, chad.starnes@enron.com, 
+	joe.stepenovitch@enron.com, mark.symms@enron.com, 
+	rao.tamma@enron.com, james.terrell@enron.com, 
+	garrett.tripp@enron.com, greg.trefz@enron.com, 
+	larry.valderrama@enron.com, maria.valdes@enron.com, 
+	joseph.wagner@enron.com, christopher.watts@enron.com, 
+	lloyd.will@enron.com, jay.wills@enron.com, george.wood@enron.com
+Subject: VaR Model
+X-FileName: lcampbel.nsf
+
+Please see the following attachment from Vlady Gorny.
+---------------------- Forwarded by Tamara Jae Black/HOU/ECT on 11/09/2000 
+06:55 AM ---------------------------
+   
+	
+	
+	From:  Vladimir Gorny                           11/08/2000 07:07 PM
+	
+
+To: Doug Gilbert-Smith/Corp/Enron@ENRON, Rogers Herndon/HOU/ECT@ect, Fletcher 
+J Sturm/HOU/ECT@ECT, Mark Dana Davis/HOU/ECT@ECT
+cc: Kevin M Presto/HOU/ECT@ECT, Tamara Jae Black/HOU/ECT@ECT 
+Subject: VaR Model
+
+Attached below is the Excel-based VaR Calculator that allows VaR calculations 
+for up to 5 different curves and/or products. The results may be different 
+that those generated in the "official" VaR model, because it does not reflect 
+all the intricacies. We have developed an Ad-hoc VaR model that allows quick 
+calculations of VaR for a potential transaction, as well as the incremental 
+VaR on a given portfolio (using the "official" VaR model). We will make this 
+tool available to you via http://rac.enron.com/ in the near future (pending 
+IT implementation).
+
+
+
+TJ,
+
+I do not have a list of names of all the traders on the desk (individuals who 
+attended the VaR presentation). Could you please forward this e-mail to them.
+
+Feel free to call me with any questions. Vlady.
+
+<MARKUP id=sabie Time=Tue Jan 10 17:21:51 GMT 2006 Interesting=false>CORE_BUSINESS</MARKUP>
