@@ -1,0 +1,8 @@
+numpy==1.14.5
+tensorflow==1.8.0
+keras==2.2.0
+ujson==1.35
+gensim==3.4.0
+nltk==3.3
+glob
+unidecode
